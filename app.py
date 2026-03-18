@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-BOT_TOKEN = "PAST YOUR BOT TOKEN"
+BOT_TOKEN = "8747958446:AAHO-ezCDLXojC11J0qM9xohm1tQCwYTrgQ"
 
 # Global variables for rate limiting
 user_queues = {}
@@ -501,7 +501,7 @@ def main():
         print("✅ HIGH-PERFORMANCE Bot started successfully!")
         print(f"🚀 Max concurrent jobs: {MAX_CONCURRENT_JOBS}")
         print("📱 Bot is ready for multiple users!")
-        print("⚡ Powered by OLD-STUDIO")
+        print("⚡ Powered by @Bahshd_bot")
         
         # Start bot with optimizations
         application.run_polling(
